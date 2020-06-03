@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Library/PackageCache/com.unity.collab-proxy@1.2.16</Path>
+      <Path>Library/PackageCache/com.unity.ext.nunit@1.0.0</Path>
+      <Path>Library/PackageCache/com.unity.ide.rider@1.1.0</Path>
+      <Path>Library/PackageCache/com.unity.ide.vscode@1.1.3</Path>
+      <Path>Library/PackageCache/com.unity.postprocessing@2.2.2</Path>
+      <Path>Library/PackageCache/com.unity.probuilder@4.1.2</Path>
+      <Path>Library/PackageCache/com.unity.recorder@2.2.0-preview.4</Path>
+      <Path>Library/PackageCache/com.unity.settings-manager@1.0.0</Path>
+      <Path>Library/PackageCache/com.unity.test-framework@1.1.3</Path>
+      <Path>Library/PackageCache/com.unity.textmeshpro@2.0.1</Path>
+      <Path>Library/PackageCache/com.unity.timeline@1.2.6</Path>
+      <Path>Library/PackageCache/com.zughiko.dust-motes-effects-for-unity@d5b4bdfb1ad4032ad30cb2cdcb3d4243c350e44f</Path>
+      <Path>Library/PackageCache/li.lightingtools.lightprobesvolumes@b5914d9328d32087020d49aec462852fcb8fab26</Path>
+      <Path>ProjectSettings</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.git</Path>
+      <Path>.idea</Path>
+      <Path>EasyRoads3Dv3</Path>
+      <Path>Library</Path>
+      <Path>Logs</Path>
+      <Path>Recordings</Path>
+      <Path>Temp</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>

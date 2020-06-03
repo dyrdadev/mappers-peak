@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: cabf1857eec6dd243b25ec67651631ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: characterSmall
+    100004: Chest
+    100006: Head
+    100008: Head_end
+    100010: Hips
+    100012: HipsCtrl
+    100014: LeftArm
+    100016: LeftFoot
+    100018: LeftFootCtrl
+    100020: LeftFootIK
+    100022: LeftFootIK_end
+    100024: LeftFootRollCtrl
+    100026: LeftFootRollCtrl_end
+    100028: LeftForeArm
+    100030: LeftHand
+    100032: LeftHandIndex1
+    100034: LeftHandIndex2
+    100036: LeftHandIndex3
+    100038: LeftHandIndex3_end
+    100040: LeftHandThumb1
+    100042: LeftHandThumb2
+    100044: LeftHandThumb2_end
+    100046: LeftHeelRoll
+    100048: LeftKneeCtrl
+    100050: LeftKneeCtrl_end
+    100052: LeftLeg
+    100054: LeftShoulder
+    100056: LeftToeRoll
+    100058: LeftToes
+    100060: LeftToes_end
+    100062: LeftUpLeg
+    100064: Neck
+    100066: RightArm
+    100068: RightFoot
+    100070: RightFootCtrl
+    100072: RightFootIK
+    100074: RightFootIK_end
+    100076: RightFootRollCtrl
+    100078: RightFootRollCtrl_end
+    100080: RightForeArm
+    100082: RightHand
+    100084: RightHandIndex1
+    100086: RightHandIndex2
+    100088: RightHandIndex3
+    100090: RightHandIndex3_end
+    100092: RightHandThumb1
+    100094: RightHandThumb2
+    100096: RightHandThumb2_end
+    100098: RightHeelRoll
+    100100: RightKneeCtrl
+    100102: RightKneeCtrl_end
+    100104: RightLeg
+    100106: RightShoulder
+    100108: RightToeRoll
+    100110: RightToes
+    100112: RightToes_end
+    100114: RightUpLeg
+    100116: Root
+    100118: Spine
+    100120: UpperChest
+    400000: //RootNode
+    400002: characterSmall
+    400004: Chest
+    400006: Head
+    400008: Head_end
+    400010: Hips
+    400012: HipsCtrl
+    400014: LeftArm
+    400016: LeftFoot
+    400018: LeftFootCtrl
+    400020: LeftFootIK
+    400022: LeftFootIK_end
+    400024: LeftFootRollCtrl
+    400026: LeftFootRollCtrl_end
+    400028: LeftForeArm
+    400030: LeftHand
+    400032: LeftHandIndex1
+    400034: LeftHandIndex2
+    400036: LeftHandIndex3
+    400038: LeftHandIndex3_end
+    400040: LeftHandThumb1
+    400042: LeftHandThumb2
+    400044: LeftHandThumb2_end
+    400046: LeftHeelRoll
+    400048: LeftKneeCtrl
+    400050: LeftKneeCtrl_end
+    400052: LeftLeg
+    400054: LeftShoulder
+    400056: LeftToeRoll
+    400058: LeftToes
+    400060: LeftToes_end
+    400062: LeftUpLeg
+    400064: Neck
+    400066: RightArm
+    400068: RightFoot
+    400070: RightFootCtrl
+    400072: RightFootIK
+    400074: RightFootIK_end
+    400076: RightFootRollCtrl
+    400078: RightFootRollCtrl_end
+    400080: RightForeArm
+    400082: RightHand
+    400084: RightHandIndex1
+    400086: RightHandIndex2
+    400088: RightHandIndex3
+    400090: RightHandIndex3_end
+    400092: RightHandThumb1
+    400094: RightHandThumb2
+    400096: RightHandThumb2_end
+    400098: RightHeelRoll
+    400100: RightKneeCtrl
+    400102: RightKneeCtrl_end
+    400104: RightLeg
+    400106: RightShoulder
+    400108: RightToeRoll
+    400110: RightToes
+    400112: RightToes_end
+    400114: RightUpLeg
+    400116: Root
+    400118: Spine
+    400120: UpperChest
+    2100000: skin
+    4300000: characterSmall
+    9500000: //RootNode
+    13700000: characterSmall
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin
+    second: {fileID: 2100000, guid: 813f01be7c1d68e46bf06a313a7053c1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
