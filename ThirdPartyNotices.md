@@ -33,3 +33,10 @@ This package contains third-party components governed by the license(s) indicate
 - Created by: [Kenney](https://kenney.nl/)
 - More information: You can find more information in the corresponding asset page [here](https://kenney.nl/assets/foliage-sprites).
 - Comment: Some of the grass sprites are based on Foliage Sprites by Kenney.
+
+## VFX flipbook texture sheets
+
+- Component name: VFX flipbook texture sheets
+- License Type: [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/)
+- Created by: Unity Labs Paris
+- More information: You can find more information in the corresponding blog post [here](https://blogs.unity3d.com/2016/11/28/free-vfx-image-sequences-flipbooks/).
