@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour {
     
     private Vector2 movementDirection = new Vector2(0,0);
     private NavMeshAgent agent;
-    private MainInput controls;
+    private TopDownInput controls;
     private Vector3 attentionDirection = new Vector3(0,0,1);
 
 
@@ -37,7 +37,7 @@ public class PlayerController : MonoBehaviour {
 	void Awake ()
     {
         agent = GetComponent<NavMeshAgent>();
-        controls = new MainInput();
+        controls = new TopDownInput();
     }
 	
 	void Update ()

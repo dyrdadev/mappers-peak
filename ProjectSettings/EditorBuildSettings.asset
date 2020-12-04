@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Features/_CloudyPeak_Scene/CloudyPeak.unity
+    path: Assets/Scenes/CloudyPeak/CloudyPeak.unity
     guid: ef5925cbca4abd94693d8c38f4bd5937
   - enabled: 1
-    path: Assets/Features/_OrreryHall/OrreryHall.unity
+    path: Assets/Scenes/OrreryHall/OrreryHall.unity
     guid: 5fe06eab455be0b48b51971b16180948
   m_configObjects: {}
