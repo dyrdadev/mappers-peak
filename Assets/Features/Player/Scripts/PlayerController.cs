@@ -10,8 +10,9 @@ using UnityEngine.AI;
 public class PlayerController : MonoBehaviour {
 
     
-    private Vector3 movementDirection = new Vector3(0,0,0);
+    private Vector2 movementDirection = new Vector2(0,0);
     private NavMeshAgent agent;
+    private TopDownInput controls;
     private Vector3 attentionDirection = new Vector3(0,0,1);
 
 
@@ -23,23 +24,30 @@ public class PlayerController : MonoBehaviour {
 
     [SerializeField] private float speed = 8.0f;
 
+    private void OnEnable()
+    {
+        controls.Enable();
+    }
+
+    private void OnDisable()
+    {
+        controls.Disable();
+    }
    
 	void Awake ()
     {
         agent = GetComponent<NavMeshAgent>();
+        controls = new TopDownInput();
     }
 	
 	void Update ()
     {
+        
         // Fetch control Input.
-        movementDirection = new Vector3(
-             Input.GetAxis("Horizontal"),
-             0,
-             Input.GetAxis("Vertical")
-        );
+        movementDirection = controls.Character.Move.ReadValue<Vector2>();
 
         // Update velocity.
-        agent.velocity = new Vector3(movementDirection.x, 0, movementDirection.z) * speed ;
+        agent.velocity = new Vector3(movementDirection.x, 0, movementDirection.y) * speed ;
 
 
         // Update animator with input specific

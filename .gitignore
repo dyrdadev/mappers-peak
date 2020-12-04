@@ -59,5 +59,9 @@ sysinfo.txt
 crashlytics-build.properties
 
 # ide files
-.vscode/  # visual studio code
-.idea/    # rider
+.vscode/
+/.idea
+
+# UniRx as Plugin
+/[Aa]ssets/[Pp]lugins/UniRx/
+/[Aa]ssets/[Pp]lugins/UniRx.meta
