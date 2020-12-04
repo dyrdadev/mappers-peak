@@ -62,6 +62,4 @@ crashlytics-build.properties
 .vscode/
 /.idea
 
-# UniRx as Plugin
-/[Aa]ssets/[Pp]lugins/UniRx/
-/[Aa]ssets/[Pp]lugins/UniRx.meta
+
