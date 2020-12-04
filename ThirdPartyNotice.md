@@ -1,4 +1,4 @@
-# Third Party Notices
+# Third Party Notice
 
 This package contains third-party components governed by the license(s) indicated below. See the readme files in the project's folder structure for more information about the assets.
 
