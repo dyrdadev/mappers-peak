@@ -12,18 +12,15 @@
     <br>
 </p>
 
-## Third Party Content
-
-Many assets of this project were created by other people. Check out the [Third Party Content](/ThirdPartyContent.md) file for details.
-
-## License
+## License & Third Party Content
 
 This project is licensed under a MIT license. See the [LICENSE](/LICENSE) file for details.
 
-## Support
+Many assets of this project were created by other people. Check out the [Third Party Content](/ThirdPartyContent.md) file for details.
 
-This project was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdaio)](https://github.com/dyrdaio) and [twitter (@dyrdaio)](https://twitter.com/dyrdaio). Just come by and say hello, I would love to hear how you use the project.
 
-## Contribute
+## Support & Contribute
 
-This project was developed by [Daniel Dyrda](https://dyrda.io). If you want to contribute to this project, you are welcome to do so. Just write me and we will find a way to collaborate.
+This project was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdadev)](https://github.com/dyrdadev) and [twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda). Just come by and say hello, I would love to hear how you use the project.
+
+If you want to contribute to this project, you are welcome to do so. Just write me and we will find a way to collaborate.
