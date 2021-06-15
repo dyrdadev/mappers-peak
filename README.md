@@ -1,3 +1,15 @@
+<p align=center>
+    <br>
+    <br>
+    <a href="https://github.com/dyrdadev/mappers-peak">
+        <img src="./Media/mappers-peak-icon-preview.png" alt="An icon of the mapper's peak project." width="162px"/>
+    </a>
+    <br>
+    <br>
+    <br>
+</p>
+
+
 # Mapper's Peak
 
 "Mapper's Peak" is a small Unity game project that was developed for use in lectures at the university.
@@ -5,7 +17,7 @@
 <p align=center>
     <br>
     <br>
-    <a href="https://github.com/dyrdaio/mappers-peak">
+    <a href="https://github.com/dyrdadev/mappers-peak">
         <img src="./Media/first_person_controller_github_preview.gif" alt="Gameplay footage from the 'Mapper's Peak' sample project using the First-Person Controller"/>
     </a>
     <br>
