@@ -1,9 +1,19 @@
 <p align=center>
     <br>
     <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <a href="https://github.com/dyrdadev/mappers-peak">
         <img src="./Media/mappers-peak-icon-preview.png" alt="An icon of the mapper's peak project." width="162px"/>
     </a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <br>
     <br>
     <br>
