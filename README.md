@@ -7,7 +7,7 @@
     <br>
     <br>
     <a href="https://github.com/dyrdadev/mappers-peak">
-        <img src="./Media/mappers-peak-icon-preview.png" alt="An icon of the mapper's peak project." width="162px"/>
+        <img src="./Media/mappers-peak-icon-preview.png" alt="An icon of the mapper's peak project." width="242px"/>
     </a>
     <br>
     <br>
