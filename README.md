@@ -1,23 +1,28 @@
-<p align=center>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <a href="https://github.com/dyrdadev/mappers-peak">
-        <img src="./Media/mappers-peak-icon-with-name-2.png" alt="An icon of the mapper's peak project." width="242px"/>
-    </a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align=center display="flex" flexDirection="column">
+<a href="https://github.com/dyrdadev/mappers-peak">
+    <img src="./Media/icon.png" alt="An icon of the mapper's peak project." width="152px"/>
+</a>
 </p>
+<h6 align=center display="flex" flexDirection="column">
+    Mapper's Peak
+</h6>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 # Mapper's Peak
