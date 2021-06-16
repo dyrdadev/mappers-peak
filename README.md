@@ -6,14 +6,16 @@
 <br>
 <br>
 <br>
-<div align=center display="flex" flexDirection="column">
+<br>
+<div align=center>
 <a href="https://github.com/dyrdadev/mappers-peak">
-    <img src="./Media/icon.png" alt="An icon of the mapper's peak project." width="142px"/>
+    <img src="./Media/icon.png" alt="An icon of the mapper's peak project." width="148px"/>
 </a>
 </div>
-<div align=center margin-top="5px">
+<h6 align=center>
     Mapper's Peak
-</div>
+</h6>
+<br>
 <br>
 <br>
 <br>
