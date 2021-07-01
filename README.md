@@ -4,9 +4,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <div align=center>
 <a href="https://github.com/dyrdadev/mappers-peak">
     <img src="./Media/icon.png" alt="An icon of the mapper's peak project." width="148px"/>
@@ -15,10 +12,6 @@
 <h6 align=center>
     Mapper's Peak
 </h6>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
