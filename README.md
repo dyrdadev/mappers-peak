@@ -22,7 +22,7 @@
 
 # Mapper's Peak
 
-"Mapper's Peak" is a small sci-fi themed Unity game project that was developed for use in lectures at the university. Mapper's Peak is not really a game, but rather an experimental environment for gamedev.
+"Mapper's Peak" is a small sci-fi themed Unity game project that was developed for use in lectures at the university. Mapper's Peak is not really a game, but rather an experimental environment for game development.
 
 <p align=center>
     <br>
